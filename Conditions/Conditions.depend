@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1564336837 source:c:\users\clad_\desktop\dev\c\conditions\main.c
+	<stdio.h>
+	<stdlib.h>
+

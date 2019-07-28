@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1563939657 source:c:\users\clad_\desktop\dev\c\variables\main.c
+	<stdio.h>
+	<stdlib.h>
+

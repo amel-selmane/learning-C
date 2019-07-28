@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1563941971 source:c:\users\clad_\desktop\dev\c\calculatrice_basique\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
